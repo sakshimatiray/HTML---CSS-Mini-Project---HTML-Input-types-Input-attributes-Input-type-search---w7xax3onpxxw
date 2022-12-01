@@ -1,1 +1,57 @@
 
+div{
+    background-color:#fffffe;
+    text-align: center;
+
+
+    
+}
+body{
+    
+    background-color: rgb(204, 210, 215);
+    display:flex;
+    flex-direction:row;
+    
+    
+    
+    
+    
+}
+img{
+    display: flex;
+    float: center;
+    text-align: center;
+
+    
+}
+
+.photo1{
+    text-align: center;
+}
+.photo2{
+    text-align: center;
+}
+.photo3{
+    text-align: center;
+}
+.photo4{
+    text-align: center;
+}
+.photo5{
+    text-align: center;
+}
+.main{
+    display:flexbox;    
+}
+.work{
+    background-color:black;
+    borde: 2px solid green;
+    color: white;
+    
+}
+.work2{
+    border-radius: 20px;
+    background-color: aqua;
+    color:black;
+
+}
